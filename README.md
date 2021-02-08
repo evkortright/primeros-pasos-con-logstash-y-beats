@@ -1,4 +1,4 @@
 # primeros-pasos-con-logstash-y-beats
 
-* Use docker-compose ELK setup from https://github.com/deviantony/docker-elk#injecting-data
+* Crea tu Elastic Stack usando la configuracion de docker-compose de https://github.com/deviantony/docker-elk#injecting-data
 
