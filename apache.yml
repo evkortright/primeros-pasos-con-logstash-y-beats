@@ -1,0 +1,7 @@
+- module: apache
+  access:
+    enabled: true
+    var.paths: ["logs/logstash-tutorial.log"]
+
+  error:
+    enabled: false
